@@ -1,0 +1,301 @@
+id,offered_skill,needed_skill,match_label,terms,source
+barter_00001,Bandhani,Dhokra,0,Exchange Bandhani for Dhokra,synthetic
+barter_00002,metal,embroidery,1,Exchange metal for embroidery,synthetic
+barter_00003,Pichwai,block printing,0,Exchange Pichwai for block printing,synthetic
+barter_00004,Sanjhi,embroidery,1,Exchange Sanjhi for embroidery,synthetic
+barter_00005,Sholapith,Paithani,0,Exchange Sholapith for Paithani,synthetic
+barter_00006,terracotta,paper,1,Exchange terracotta for paper,synthetic
+barter_00007,bamboo,weaving,1,Exchange bamboo for weaving,synthetic
+barter_00008,wood,Zardozi,0,Exchange wood for Zardozi,synthetic
+barter_00009,gold foil,bamboo,0,Exchange gold foil for bamboo,synthetic
+barter_00010,metal,Warli,0,Exchange metal for Warli,synthetic
+barter_00011,Patola,casting,0,Exchange Patola for casting,synthetic
+barter_00012,Channapatna,Kondapalli toys,1,Exchange Channapatna for Kondapalli toys,synthetic
+barter_00013,embossing,polishing,1,Exchange embossing for polishing,synthetic
+barter_00014,silk,stone setting,1,Exchange silk for stone setting,synthetic
+barter_00015,Sanjhi,paper,1,Exchange Sanjhi for paper,synthetic
+barter_00016,cotton,Bidri,0,Exchange cotton for Bidri,synthetic
+barter_00017,Channapatna,Zardozi,0,Exchange Channapatna for Zardozi,synthetic
+barter_00018,clay,Sholapith,1,Exchange clay for Sholapith,synthetic
+barter_00019,knitting,Cheriyal scrolls,1,Exchange knitting for Cheriyal scrolls,synthetic
+barter_00020,Terracotta of Bankura,Terracotta of Bankura,0,Exchange Terracotta of Bankura for Terracotta of Bankura,synthetic
+barter_00021,terracotta,Phulkari,1,Exchange terracotta for Phulkari,synthetic
+barter_00022,brass,Terracotta of Bankura,1,Exchange brass for Terracotta of Bankura,synthetic
+barter_00023,terracotta,tie-dye,1,Exchange terracotta for tie-dye,synthetic
+barter_00024,Channapatna,tie-dye,0,Exchange Channapatna for tie-dye,synthetic
+barter_00025,Warli,Terracotta of Bankura,1,Exchange Warli for Terracotta of Bankura,synthetic
+barter_00026,wheel throwing,tie-dye,0,Exchange wheel throwing for tie-dye,synthetic
+barter_00027,hand painting,paper,1,Exchange hand painting for paper,synthetic
+barter_00028,wheel throwing,Chikankari,0,Exchange wheel throwing for Chikankari,synthetic
+barter_00029,wool,Ikat,0,Exchange wool for Ikat,synthetic
+barter_00030,Terracotta of Bankura,Paithani,1,Exchange Terracotta of Bankura for Paithani,synthetic
+barter_00031,Warli,bamboo,0,Exchange Warli for bamboo,synthetic
+barter_00032,handloom,knitting,1,Exchange handloom for knitting,synthetic
+barter_00033,Pichwai,sculpting,0,Exchange Pichwai for sculpting,synthetic
+barter_00034,brass,weaving,1,Exchange brass for weaving,synthetic
+barter_00035,Pashmina,brass,0,Exchange Pashmina for brass,synthetic
+barter_00036,tie-dye,Thangka,1,Exchange tie-dye for Thangka,synthetic
+barter_00037,casting,casting,0,Exchange casting for casting,synthetic
+barter_00038,weaving,stone,1,Exchange weaving for stone,synthetic
+barter_00039,Kantha,carving,0,Exchange Kantha for carving,synthetic
+barter_00040,tie-dye,Warli,0,Exchange tie-dye for Warli,synthetic
+barter_00041,Madhubani,stone setting,0,Exchange Madhubani for stone setting,synthetic
+barter_00042,wool,leather,1,Exchange wool for leather,synthetic
+barter_00043,Mysore painting,Bandhani,1,Exchange Mysore painting for Bandhani,synthetic
+barter_00044,Patola,Kondapalli toys,1,Exchange Patola for Kondapalli toys,synthetic
+barter_00045,brass,handloom,1,Exchange brass for handloom,synthetic
+barter_00046,paper,embossing,1,Exchange paper for embossing,synthetic
+barter_00047,Pattachitra,polishing,0,Exchange Pattachitra for polishing,synthetic
+barter_00048,handloom,Bamboo craft of Assam,0,Exchange handloom for Bamboo craft of Assam,synthetic
+barter_00049,bamboo,Warli,0,Exchange bamboo for Warli,synthetic
+barter_00050,embossing,Mysore painting,0,Exchange embossing for Mysore painting,synthetic
+barter_00051,stone,metal,1,Exchange stone for metal,synthetic
+barter_00052,brass,Gond,1,Exchange brass for Gond,synthetic
+barter_00053,paper,brass,1,Exchange paper for brass,synthetic
+barter_00054,Patola,Terracotta of Bankura,1,Exchange Patola for Terracotta of Bankura,synthetic
+barter_00055,tie-dye,Thangka,1,Exchange tie-dye for Thangka,synthetic
+barter_00056,knitting,casting,0,Exchange knitting for casting,synthetic
+barter_00057,metal,Banarasi weaving,0,Exchange metal for Banarasi weaving,synthetic
+barter_00058,casting,metal,1,Exchange casting for metal,synthetic
+barter_00059,Paithani,Pichwai,1,Exchange Paithani for Pichwai,synthetic
+barter_00060,Zardozi,Sholapith,1,Exchange Zardozi for Sholapith,synthetic
+barter_00061,stone,Dhokra,0,Exchange stone for Dhokra,synthetic
+barter_00062,Bandhani,knitting,1,Exchange Bandhani for knitting,synthetic
+barter_00063,Channapatna,embossing,1,Exchange Channapatna for embossing,synthetic
+barter_00064,Zardozi,embossing,0,Exchange Zardozi for embossing,synthetic
+barter_00065,Kalamkari,gold foil work,1,Exchange Kalamkari for gold foil work,synthetic
+barter_00066,Pichwai,Bamboo craft of Assam,0,Exchange Pichwai for Bamboo craft of Assam,synthetic
+barter_00067,gold foil,hand painting,1,Exchange gold foil for hand painting,synthetic
+barter_00068,clay,Zardozi,0,Exchange clay for Zardozi,synthetic
+barter_00069,Chikankari,Kondapalli toys,0,Exchange Chikankari for Kondapalli toys,synthetic
+barter_00070,Paithani,Madhubani,1,Exchange Paithani for Madhubani,synthetic
+barter_00071,Thangka,Banarasi weaving,0,Exchange Thangka for Banarasi weaving,synthetic
+barter_00072,polishing,cotton,1,Exchange polishing for cotton,synthetic
+barter_00073,embroidery,bamboo,1,Exchange embroidery for bamboo,synthetic
+barter_00074,natural dyes,Chikankari,0,Exchange natural dyes for Chikankari,synthetic
+barter_00075,paper,bamboo,0,Exchange paper for bamboo,synthetic
+barter_00076,casting,natural dyes,1,Exchange casting for natural dyes,synthetic
+barter_00077,Kalamkari,terracotta,0,Exchange Kalamkari for terracotta,synthetic
+barter_00078,Kantha,Pattachitra,0,Exchange Kantha for Pattachitra,synthetic
+barter_00079,polishing,brass,1,Exchange polishing for brass,synthetic
+barter_00080,cotton,wheel throwing,1,Exchange cotton for wheel throwing,synthetic
+barter_00081,embossing,Warli,1,Exchange embossing for Warli,synthetic
+barter_00082,gold foil work,Sholapith,1,Exchange gold foil work for Sholapith,synthetic
+barter_00083,hand painting,clay,1,Exchange hand painting for clay,synthetic
+barter_00084,cotton,metal,0,Exchange cotton for metal,synthetic
+barter_00085,Kantha,Cheriyal scrolls,1,Exchange Kantha for Cheriyal scrolls,synthetic
+barter_00086,weaving,Aranmula Kannadi,0,Exchange weaving for Aranmula Kannadi,synthetic
+barter_00087,Cheriyal scrolls,handloom,0,Exchange Cheriyal scrolls for handloom,synthetic
+barter_00088,Ikat,Zardozi,1,Exchange Ikat for Zardozi,synthetic
+barter_00089,Bidri,Bamboo craft of Assam,0,Exchange Bidri for Bamboo craft of Assam,synthetic
+barter_00090,Aranmula Kannadi,weaving,0,Exchange Aranmula Kannadi for weaving,synthetic
+barter_00091,paper,knitting,1,Exchange paper for knitting,synthetic
+barter_00092,Mysore painting,block printing,0,Exchange Mysore painting for block printing,synthetic
+barter_00093,block printing,Sanjhi,0,Exchange block printing for Sanjhi,synthetic
+barter_00094,carving,Kantha,0,Exchange carving for Kantha,synthetic
+barter_00095,Sholapith,paper,1,Exchange Sholapith for paper,synthetic
+barter_00096,Thangka,Warli,1,Exchange Thangka for Warli,synthetic
+barter_00097,Thangka,weaving,1,Exchange Thangka for weaving,synthetic
+barter_00098,sculpting,wool,1,Exchange sculpting for wool,synthetic
+barter_00099,block printing,Banarasi weaving,0,Exchange block printing for Banarasi weaving,synthetic
+barter_00100,leather,terracotta,0,Exchange leather for terracotta,synthetic
+barter_00101,Chikankari,sculpting,1,Exchange Chikankari for sculpting,synthetic
+barter_00102,leather,Pichwai,0,Exchange leather for Pichwai,synthetic
+barter_00103,Kondapalli toys,stone,1,Exchange Kondapalli toys for stone,synthetic
+barter_00104,Banarasi weaving,Tanjore,1,Exchange Banarasi weaving for Tanjore,synthetic
+barter_00105,handloom,wood,1,Exchange handloom for wood,synthetic
+barter_00106,terracotta,Pattachitra,1,Exchange terracotta for Pattachitra,synthetic
+barter_00107,bamboo,Phulkari,1,Exchange bamboo for Phulkari,synthetic
+barter_00108,Blue Pottery,wool,0,Exchange Blue Pottery for wool,synthetic
+barter_00109,block printing,Banarasi weaving,1,Exchange block printing for Banarasi weaving,synthetic
+barter_00110,handloom,embossing,0,Exchange handloom for embossing,synthetic
+barter_00111,metal,Aranmula Kannadi,1,Exchange metal for Aranmula Kannadi,synthetic
+barter_00112,weaving,sculpting,1,Exchange weaving for sculpting,synthetic
+barter_00113,embossing,gold foil,1,Exchange embossing for gold foil,synthetic
+barter_00114,Sanjhi,Paithani,0,Exchange Sanjhi for Paithani,synthetic
+barter_00115,bamboo,sculpting,1,Exchange bamboo for sculpting,synthetic
+barter_00116,Sanjhi,Mysore painting,1,Exchange Sanjhi for Mysore painting,synthetic
+barter_00117,Pashmina,Kondapalli toys,1,Exchange Pashmina for Kondapalli toys,synthetic
+barter_00118,clay,sculpting,1,Exchange clay for sculpting,synthetic
+barter_00119,silk,Cheriyal scrolls,1,Exchange silk for Cheriyal scrolls,synthetic
+barter_00120,Chikankari,Bamboo craft of Assam,1,Exchange Chikankari for Bamboo craft of Assam,synthetic
+barter_00121,bamboo,bamboo,0,Exchange bamboo for bamboo,synthetic
+barter_00122,Patola,Thangka,0,Exchange Patola for Thangka,synthetic
+barter_00123,Warli,Paithani,0,Exchange Warli for Paithani,synthetic
+barter_00124,Paithani,terracotta,1,Exchange Paithani for terracotta,synthetic
+barter_00125,Chikankari,sculpting,0,Exchange Chikankari for sculpting,synthetic
+barter_00126,Phulkari,bamboo,0,Exchange Phulkari for bamboo,synthetic
+barter_00127,Madhubani,Kalamkari,0,Exchange Madhubani for Kalamkari,synthetic
+barter_00128,Phulkari,Warli,1,Exchange Phulkari for Warli,synthetic
+barter_00129,Dhokra,Sholapith,1,Exchange Dhokra for Sholapith,synthetic
+barter_00130,casting,Pichwai,1,Exchange casting for Pichwai,synthetic
+barter_00131,wood,paper,0,Exchange wood for paper,synthetic
+barter_00132,clay,block printing,1,Exchange clay for block printing,synthetic
+barter_00133,bamboo,Patola,1,Exchange bamboo for Patola,synthetic
+barter_00134,Phulkari,Aranmula Kannadi,1,Exchange Phulkari for Aranmula Kannadi,synthetic
+barter_00135,Phulkari,weaving,1,Exchange Phulkari for weaving,synthetic
+barter_00136,carving,Sholapith,1,Exchange carving for Sholapith,synthetic
+barter_00137,wheel throwing,wheel throwing,0,Exchange wheel throwing for wheel throwing,synthetic
+barter_00138,block printing,Patola,0,Exchange block printing for Patola,synthetic
+barter_00139,tie-dye,Chikankari,1,Exchange tie-dye for Chikankari,synthetic
+barter_00140,wheel throwing,sculpting,1,Exchange wheel throwing for sculpting,synthetic
+barter_00141,silk,bamboo,1,Exchange silk for bamboo,synthetic
+barter_00142,Tanjore,Cheriyal scrolls,1,Exchange Tanjore for Cheriyal scrolls,synthetic
+barter_00143,wool,Sholapith,1,Exchange wool for Sholapith,synthetic
+barter_00144,Sholapith,wheel throwing,0,Exchange Sholapith for wheel throwing,synthetic
+barter_00145,Kantha,Terracotta of Bankura,1,Exchange Kantha for Terracotta of Bankura,synthetic
+barter_00146,Terracotta of Bankura,Mysore painting,1,Exchange Terracotta of Bankura for Mysore painting,synthetic
+barter_00147,wood,hand painting,1,Exchange wood for hand painting,synthetic
+barter_00148,clay,Kondapalli toys,0,Exchange clay for Kondapalli toys,synthetic
+barter_00149,Warli,cotton,0,Exchange Warli for cotton,synthetic
+barter_00150,Banarasi weaving,Pichwai,0,Exchange Banarasi weaving for Pichwai,synthetic
+barter_00151,Pattachitra,embossing,1,Exchange Pattachitra for embossing,synthetic
+barter_00152,Bidri,Dhokra,1,Exchange Bidri for Dhokra,synthetic
+barter_00153,block printing,Chikankari,0,Exchange block printing for Chikankari,synthetic
+barter_00154,Pichwai,Blue Pottery,1,Exchange Pichwai for Blue Pottery,synthetic
+barter_00155,brass,Dhokra,0,Exchange brass for Dhokra,synthetic
+barter_00156,embossing,Gond,1,Exchange embossing for Gond,synthetic
+barter_00157,silk,Channapatna,1,Exchange silk for Channapatna,synthetic
+barter_00158,Warli,Banarasi weaving,0,Exchange Warli for Banarasi weaving,synthetic
+barter_00159,Tanjore,metal,1,Exchange Tanjore for metal,synthetic
+barter_00160,casting,Gond,0,Exchange casting for Gond,synthetic
+barter_00161,embroidery,handloom,0,Exchange embroidery for handloom,synthetic
+barter_00162,handloom,natural dyes,1,Exchange handloom for natural dyes,synthetic
+barter_00163,Pichwai,Thangka,0,Exchange Pichwai for Thangka,synthetic
+barter_00164,weaving,metal,1,Exchange weaving for metal,synthetic
+barter_00165,sculpting,Phulkari,0,Exchange sculpting for Phulkari,synthetic
+barter_00166,stone,Channapatna,1,Exchange stone for Channapatna,synthetic
+barter_00167,Mysore painting,block printing,0,Exchange Mysore painting for block printing,synthetic
+barter_00168,Terracotta of Bankura,Patola,1,Exchange Terracotta of Bankura for Patola,synthetic
+barter_00169,copper,Pichwai,1,Exchange copper for Pichwai,synthetic
+barter_00170,Tanjore,Chikankari,0,Exchange Tanjore for Chikankari,synthetic
+barter_00171,Tanjore,Kalamkari,0,Exchange Tanjore for Kalamkari,synthetic
+barter_00172,handloom,Tanjore,0,Exchange handloom for Tanjore,synthetic
+barter_00173,stone,Sanjhi,0,Exchange stone for Sanjhi,synthetic
+barter_00174,wool,Kantha,0,Exchange wool for Kantha,synthetic
+barter_00175,polishing,Paithani,1,Exchange polishing for Paithani,synthetic
+barter_00176,Channapatna,leather,0,Exchange Channapatna for leather,synthetic
+barter_00177,Cheriyal scrolls,Bamboo craft of Assam,0,Exchange Cheriyal scrolls for Bamboo craft of Assam,synthetic
+barter_00178,natural dyes,wheel throwing,1,Exchange natural dyes for wheel throwing,synthetic
+barter_00179,stone,copper,1,Exchange stone for copper,synthetic
+barter_00180,embroidery,Madhubani,1,Exchange embroidery for Madhubani,synthetic
+barter_00181,leather,gold foil work,1,Exchange leather for gold foil work,synthetic
+barter_00182,clay,Bamboo craft of Assam,0,Exchange clay for Bamboo craft of Assam,synthetic
+barter_00183,Pattachitra,Aranmula Kannadi,1,Exchange Pattachitra for Aranmula Kannadi,synthetic
+barter_00184,Sanjhi,Zardozi,1,Exchange Sanjhi for Zardozi,synthetic
+barter_00185,paper,sculpting,1,Exchange paper for sculpting,synthetic
+barter_00186,copper,Patola,1,Exchange copper for Patola,synthetic
+barter_00187,Patola,paper,1,Exchange Patola for paper,synthetic
+barter_00188,stone,gold foil,1,Exchange stone for gold foil,synthetic
+barter_00189,Kondapalli toys,copper,1,Exchange Kondapalli toys for copper,synthetic
+barter_00190,Chikankari,Ikat,1,Exchange Chikankari for Ikat,synthetic
+barter_00191,gold foil,wool,0,Exchange gold foil for wool,synthetic
+barter_00192,embossing,Chikankari,1,Exchange embossing for Chikankari,synthetic
+barter_00193,terracotta,Patola,1,Exchange terracotta for Patola,synthetic
+barter_00194,Mysore painting,hand painting,0,Exchange Mysore painting for hand painting,synthetic
+barter_00195,Banarasi weaving,Kondapalli toys,0,Exchange Banarasi weaving for Kondapalli toys,synthetic
+barter_00196,Bandhani,Zardozi,1,Exchange Bandhani for Zardozi,synthetic
+barter_00197,Gond,wool,0,Exchange Gond for wool,synthetic
+barter_00198,Channapatna,hand painting,0,Exchange Channapatna for hand painting,synthetic
+barter_00199,silk,casting,1,Exchange silk for casting,synthetic
+barter_00200,Channapatna,wheel throwing,1,Exchange Channapatna for wheel throwing,synthetic
+barter_00201,hand painting,paper,1,Exchange hand painting for paper,synthetic
+barter_00202,tie-dye,Chikankari,1,Exchange tie-dye for Chikankari,synthetic
+barter_00203,metal,Blue Pottery,1,Exchange metal for Blue Pottery,synthetic
+barter_00204,wool,stone setting,1,Exchange wool for stone setting,synthetic
+barter_00205,wood,Mysore painting,1,Exchange wood for Mysore painting,synthetic
+barter_00206,Dhokra,leather,1,Exchange Dhokra for leather,synthetic
+barter_00207,terracotta,Mysore painting,0,Exchange terracotta for Mysore painting,synthetic
+barter_00208,Mysore painting,Cheriyal scrolls,1,Exchange Mysore painting for Cheriyal scrolls,synthetic
+barter_00209,gold foil work,Patola,1,Exchange gold foil work for Patola,synthetic
+barter_00210,Madhubani,Channapatna,0,Exchange Madhubani for Channapatna,synthetic
+barter_00211,handloom,weaving,0,Exchange handloom for weaving,synthetic
+barter_00212,Madhubani,natural dyes,1,Exchange Madhubani for natural dyes,synthetic
+barter_00213,Pashmina,gold foil work,1,Exchange Pashmina for gold foil work,synthetic
+barter_00214,wool,terracotta,0,Exchange wool for terracotta,synthetic
+barter_00215,sculpting,Bandhani,0,Exchange sculpting for Bandhani,synthetic
+barter_00216,leather,Pashmina,0,Exchange leather for Pashmina,synthetic
+barter_00217,stone,wheel throwing,1,Exchange stone for wheel throwing,synthetic
+barter_00218,embossing,bamboo,1,Exchange embossing for bamboo,synthetic
+barter_00219,bamboo,Kantha,0,Exchange bamboo for Kantha,synthetic
+barter_00220,wheel throwing,Chikankari,0,Exchange wheel throwing for Chikankari,synthetic
+barter_00221,wood,bamboo,0,Exchange wood for bamboo,synthetic
+barter_00222,Warli,stone setting,0,Exchange Warli for stone setting,synthetic
+barter_00223,tie-dye,Sanjhi,0,Exchange tie-dye for Sanjhi,synthetic
+barter_00224,copper,Mysore painting,1,Exchange copper for Mysore painting,synthetic
+barter_00225,handloom,Dhokra,1,Exchange handloom for Dhokra,synthetic
+barter_00226,Pattachitra,Sholapith,1,Exchange Pattachitra for Sholapith,synthetic
+barter_00227,Ikat,Gond,0,Exchange Ikat for Gond,synthetic
+barter_00228,brass,natural dyes,0,Exchange brass for natural dyes,synthetic
+barter_00229,Bamboo craft of Assam,Gond,0,Exchange Bamboo craft of Assam for Gond,synthetic
+barter_00230,copper,terracotta,0,Exchange copper for terracotta,synthetic
+barter_00231,Banarasi weaving,silk,1,Exchange Banarasi weaving for silk,synthetic
+barter_00232,Kondapalli toys,wheel throwing,1,Exchange Kondapalli toys for wheel throwing,synthetic
+barter_00233,Thangka,Ikat,1,Exchange Thangka for Ikat,synthetic
+barter_00234,wood,Cheriyal scrolls,1,Exchange wood for Cheriyal scrolls,synthetic
+barter_00235,natural dyes,Pashmina,0,Exchange natural dyes for Pashmina,synthetic
+barter_00236,wheel throwing,Warli,0,Exchange wheel throwing for Warli,synthetic
+barter_00237,Pattachitra,gold foil work,1,Exchange Pattachitra for gold foil work,synthetic
+barter_00238,Pattachitra,natural dyes,1,Exchange Pattachitra for natural dyes,synthetic
+barter_00239,Blue Pottery,brass,0,Exchange Blue Pottery for brass,synthetic
+barter_00240,terracotta,paper,1,Exchange terracotta for paper,synthetic
+barter_00241,Bamboo craft of Assam,Pichwai,0,Exchange Bamboo craft of Assam for Pichwai,synthetic
+barter_00242,leather,embroidery,1,Exchange leather for embroidery,synthetic
+barter_00243,Chikankari,wood,0,Exchange Chikankari for wood,synthetic
+barter_00244,Blue Pottery,Terracotta of Bankura,0,Exchange Blue Pottery for Terracotta of Bankura,synthetic
+barter_00245,casting,metal,1,Exchange casting for metal,synthetic
+barter_00246,tie-dye,bamboo,1,Exchange tie-dye for bamboo,synthetic
+barter_00247,Blue Pottery,terracotta,0,Exchange Blue Pottery for terracotta,synthetic
+barter_00248,Paithani,casting,1,Exchange Paithani for casting,synthetic
+barter_00249,block printing,Ikat,0,Exchange block printing for Ikat,synthetic
+barter_00250,Kalamkari,clay,0,Exchange Kalamkari for clay,synthetic
+barter_00251,casting,Phulkari,1,Exchange casting for Phulkari,synthetic
+barter_00252,Chikankari,casting,0,Exchange Chikankari for casting,synthetic
+barter_00253,Kalamkari,paper,0,Exchange Kalamkari for paper,synthetic
+barter_00254,terracotta,Kondapalli toys,0,Exchange terracotta for Kondapalli toys,synthetic
+barter_00255,casting,wood,1,Exchange casting for wood,synthetic
+barter_00256,Kantha,hand painting,1,Exchange Kantha for hand painting,synthetic
+barter_00257,handloom,brass,1,Exchange handloom for brass,synthetic
+barter_00258,carving,Sholapith,1,Exchange carving for Sholapith,synthetic
+barter_00259,embossing,carving,0,Exchange embossing for carving,synthetic
+barter_00260,casting,Aranmula Kannadi,1,Exchange casting for Aranmula Kannadi,synthetic
+barter_00261,Thangka,clay,0,Exchange Thangka for clay,synthetic
+barter_00262,embossing,Banarasi weaving,0,Exchange embossing for Banarasi weaving,synthetic
+barter_00263,Banarasi weaving,gold foil work,1,Exchange Banarasi weaving for gold foil work,synthetic
+barter_00264,Chikankari,Tanjore,0,Exchange Chikankari for Tanjore,synthetic
+barter_00265,Aranmula Kannadi,natural dyes,1,Exchange Aranmula Kannadi for natural dyes,synthetic
+barter_00266,Bidri,Gond,0,Exchange Bidri for Gond,synthetic
+barter_00267,Kantha,paper,0,Exchange Kantha for paper,synthetic
+barter_00268,Kantha,Bidri,0,Exchange Kantha for Bidri,synthetic
+barter_00269,Dhokra,Chikankari,0,Exchange Dhokra for Chikankari,synthetic
+barter_00270,Pattachitra,embossing,0,Exchange Pattachitra for embossing,synthetic
+barter_00271,Terracotta of Bankura,Paithani,0,Exchange Terracotta of Bankura for Paithani,synthetic
+barter_00272,Gond,Banarasi weaving,1,Exchange Gond for Banarasi weaving,synthetic
+barter_00273,Madhubani,Warli,0,Exchange Madhubani for Warli,synthetic
+barter_00274,stone setting,Tanjore,1,Exchange stone setting for Tanjore,synthetic
+barter_00275,Pichwai,gold foil work,0,Exchange Pichwai for gold foil work,synthetic
+barter_00276,polishing,metal,1,Exchange polishing for metal,synthetic
+barter_00277,tie-dye,sculpting,1,Exchange tie-dye for sculpting,synthetic
+barter_00278,bamboo,embossing,1,Exchange bamboo for embossing,synthetic
+barter_00279,Thangka,Aranmula Kannadi,0,Exchange Thangka for Aranmula Kannadi,synthetic
+barter_00280,natural dyes,Pichwai,0,Exchange natural dyes for Pichwai,synthetic
+barter_00281,casting,Cheriyal scrolls,0,Exchange casting for Cheriyal scrolls,synthetic
+barter_00282,embroidery,knitting,1,Exchange embroidery for knitting,synthetic
+barter_00283,Bandhani,Zardozi,1,Exchange Bandhani for Zardozi,synthetic
+barter_00284,wood,Chikankari,1,Exchange wood for Chikankari,synthetic
+barter_00285,natural dyes,Sanjhi,0,Exchange natural dyes for Sanjhi,synthetic
+barter_00286,stone,bamboo,0,Exchange stone for bamboo,synthetic
+barter_00287,Ikat,sculpting,0,Exchange Ikat for sculpting,synthetic
+barter_00288,bamboo,Pashmina,1,Exchange bamboo for Pashmina,synthetic
+barter_00289,stone setting,Pichwai,0,Exchange stone setting for Pichwai,synthetic
+barter_00290,cotton,Channapatna,0,Exchange cotton for Channapatna,synthetic
+barter_00291,Madhubani,natural dyes,0,Exchange Madhubani for natural dyes,synthetic
+barter_00292,Sholapith,gold foil,1,Exchange Sholapith for gold foil,synthetic
+barter_00293,Bandhani,wood,0,Exchange Bandhani for wood,synthetic
+barter_00294,Madhubani,Madhubani,0,Exchange Madhubani for Madhubani,synthetic
+barter_00295,Blue Pottery,metal,1,Exchange Blue Pottery for metal,synthetic
+barter_00296,clay,Cheriyal scrolls,0,Exchange clay for Cheriyal scrolls,synthetic
+barter_00297,Madhubani,Dhokra,0,Exchange Madhubani for Dhokra,synthetic
+barter_00298,cotton,knitting,1,Exchange cotton for knitting,synthetic
+barter_00299,bamboo,Terracotta of Bankura,0,Exchange bamboo for Terracotta of Bankura,synthetic
+barter_00300,Thangka,wood,0,Exchange Thangka for wood,synthetic

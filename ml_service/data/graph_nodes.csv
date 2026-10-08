@@ -1,0 +1,163 @@
+id,node_id,type,properties
+0,creator_009,Creator,{'id': 'creator_009'}
+1,creator_070,Creator,{'id': 'creator_070'}
+2,creator_074,Creator,{'id': 'creator_074'}
+3,creator_094,Creator,{'id': 'creator_094'}
+4,creator_058,Creator,{'id': 'creator_058'}
+5,creator_098,Creator,{'id': 'creator_098'}
+6,creator_004,Creator,{'id': 'creator_004'}
+7,creator_012,Creator,{'id': 'creator_012'}
+8,creator_052,Creator,{'id': 'creator_052'}
+9,creator_071,Creator,{'id': 'creator_071'}
+10,creator_080,Creator,{'id': 'creator_080'}
+11,creator_044,Creator,{'id': 'creator_044'}
+12,creator_049,Creator,{'id': 'creator_049'}
+13,creator_069,Creator,{'id': 'creator_069'}
+14,creator_007,Creator,{'id': 'creator_007'}
+15,creator_036,Creator,{'id': 'creator_036'}
+16,creator_035,Creator,{'id': 'creator_035'}
+17,creator_040,Creator,{'id': 'creator_040'}
+18,creator_047,Creator,{'id': 'creator_047'}
+19,creator_060,Creator,{'id': 'creator_060'}
+20,creator_063,Creator,{'id': 'creator_063'}
+21,creator_067,Creator,{'id': 'creator_067'}
+22,creator_055,Creator,{'id': 'creator_055'}
+23,creator_064,Creator,{'id': 'creator_064'}
+24,creator_090,Creator,{'id': 'creator_090'}
+25,creator_075,Creator,{'id': 'creator_075'}
+26,creator_031,Creator,{'id': 'creator_031'}
+27,creator_041,Creator,{'id': 'creator_041'}
+28,creator_086,Creator,{'id': 'creator_086'}
+29,creator_082,Creator,{'id': 'creator_082'}
+30,creator_054,Creator,{'id': 'creator_054'}
+31,creator_084,Creator,{'id': 'creator_084'}
+32,creator_096,Creator,{'id': 'creator_096'}
+33,creator_015,Creator,{'id': 'creator_015'}
+34,creator_078,Creator,{'id': 'creator_078'}
+35,creator_068,Creator,{'id': 'creator_068'}
+36,creator_045,Creator,{'id': 'creator_045'}
+37,creator_027,Creator,{'id': 'creator_027'}
+38,creator_053,Creator,{'id': 'creator_053'}
+39,creator_083,Creator,{'id': 'creator_083'}
+40,creator_059,Creator,{'id': 'creator_059'}
+41,creator_077,Creator,{'id': 'creator_077'}
+42,creator_089,Creator,{'id': 'creator_089'}
+43,creator_095,Creator,{'id': 'creator_095'}
+44,creator_034,Creator,{'id': 'creator_034'}
+45,creator_014,Creator,{'id': 'creator_014'}
+46,creator_002,Creator,{'id': 'creator_002'}
+47,creator_003,Creator,{'id': 'creator_003'}
+48,creator_020,Creator,{'id': 'creator_020'}
+49,creator_072,Creator,{'id': 'creator_072'}
+50,creator_100,Creator,{'id': 'creator_100'}
+51,creator_037,Creator,{'id': 'creator_037'}
+52,creator_092,Creator,{'id': 'creator_092'}
+53,creator_021,Creator,{'id': 'creator_021'}
+54,creator_030,Creator,{'id': 'creator_030'}
+55,creator_076,Creator,{'id': 'creator_076'}
+56,creator_008,Creator,{'id': 'creator_008'}
+57,creator_018,Creator,{'id': 'creator_018'}
+58,creator_079,Creator,{'id': 'creator_079'}
+59,creator_017,Creator,{'id': 'creator_017'}
+60,creator_046,Creator,{'id': 'creator_046'}
+61,creator_022,Creator,{'id': 'creator_022'}
+62,creator_065,Creator,{'id': 'creator_065'}
+63,creator_005,Creator,{'id': 'creator_005'}
+64,creator_088,Creator,{'id': 'creator_088'}
+65,creator_023,Creator,{'id': 'creator_023'}
+66,creator_061,Creator,{'id': 'creator_061'}
+67,creator_011,Creator,{'id': 'creator_011'}
+68,creator_042,Creator,{'id': 'creator_042'}
+69,creator_033,Creator,{'id': 'creator_033'}
+70,creator_028,Creator,{'id': 'creator_028'}
+71,creator_081,Creator,{'id': 'creator_081'}
+72,creator_001,Creator,{'id': 'creator_001'}
+73,creator_050,Creator,{'id': 'creator_050'}
+74,creator_066,Creator,{'id': 'creator_066'}
+75,creator_016,Creator,{'id': 'creator_016'}
+76,creator_093,Creator,{'id': 'creator_093'}
+77,creator_056,Creator,{'id': 'creator_056'}
+78,creator_026,Creator,{'id': 'creator_026'}
+79,creator_019,Creator,{'id': 'creator_019'}
+80,creator_073,Creator,{'id': 'creator_073'}
+81,creator_006,Creator,{'id': 'creator_006'}
+82,creator_024,Creator,{'id': 'creator_024'}
+83,creator_039,Creator,{'id': 'creator_039'}
+84,creator_013,Creator,{'id': 'creator_013'}
+85,creator_062,Creator,{'id': 'creator_062'}
+86,creator_038,Creator,{'id': 'creator_038'}
+87,creator_043,Creator,{'id': 'creator_043'}
+88,creator_087,Creator,{'id': 'creator_087'}
+89,creator_091,Creator,{'id': 'creator_091'}
+90,creator_025,Creator,{'id': 'creator_025'}
+91,creator_057,Creator,{'id': 'creator_057'}
+92,creator_032,Creator,{'id': 'creator_032'}
+93,creator_099,Creator,{'id': 'creator_099'}
+94,creator_010,Creator,{'id': 'creator_010'}
+95,creator_048,Creator,{'id': 'creator_048'}
+96,creator_051,Creator,{'id': 'creator_051'}
+97,creator_029,Creator,{'id': 'creator_029'}
+98,creator_085,Creator,{'id': 'creator_085'}
+99,creator_097,Creator,{'id': 'creator_097'}
+100,craft_warli,Craft,{'name': 'Warli'}
+101,craft_madhubani,Craft,{'name': 'Madhubani'}
+102,craft_tanjore,Craft,{'name': 'Tanjore'}
+103,craft_pattachitra,Craft,{'name': 'Pattachitra'}
+104,craft_kalamkari,Craft,{'name': 'Kalamkari'}
+105,craft_bidri,Craft,{'name': 'Bidri'}
+106,craft_dhokra,Craft,{'name': 'Dhokra'}
+107,craft_pashmina,Craft,{'name': 'Pashmina'}
+108,craft_channapatna,Craft,{'name': 'Channapatna'}
+109,craft_blue pottery,Craft,{'name': 'Blue Pottery'}
+110,craft_phulkari,Craft,{'name': 'Phulkari'}
+111,craft_chikankari,Craft,{'name': 'Chikankari'}
+112,craft_kantha,Craft,{'name': 'Kantha'}
+113,craft_bandhani,Craft,{'name': 'Bandhani'}
+114,craft_patola,Craft,{'name': 'Patola'}
+115,craft_ikat,Craft,{'name': 'Ikat'}
+116,craft_gond,Craft,{'name': 'Gond'}
+117,craft_pichwai,Craft,{'name': 'Pichwai'}
+118,craft_sanjhi,Craft,{'name': 'Sanjhi'}
+119,craft_cheriyal scrolls,Craft,{'name': 'Cheriyal scrolls'}
+120,craft_kondapalli toys,Craft,{'name': 'Kondapalli toys'}
+121,craft_terracotta of bankura,Craft,{'name': 'Terracotta of Bankura'}
+122,craft_bamboo craft of assam,Craft,{'name': 'Bamboo craft of Assam'}
+123,craft_sholapith,Craft,{'name': 'Sholapith'}
+124,craft_aranmula kannadi,Craft,{'name': 'Aranmula Kannadi'}
+125,craft_mysore painting,Craft,{'name': 'Mysore painting'}
+126,craft_thangka,Craft,{'name': 'Thangka'}
+127,craft_zardozi,Craft,{'name': 'Zardozi'}
+128,craft_banarasi weaving,Craft,{'name': 'Banarasi weaving'}
+129,craft_paithani,Craft,{'name': 'Paithani'}
+130,material_clay,Material,{'name': 'clay'}
+131,material_cotton,Material,{'name': 'cotton'}
+132,material_silk,Material,{'name': 'silk'}
+133,material_wood,Material,{'name': 'wood'}
+134,material_metal,Material,{'name': 'metal'}
+135,material_stone,Material,{'name': 'stone'}
+136,material_bamboo,Material,{'name': 'bamboo'}
+137,material_paper,Material,{'name': 'paper'}
+138,material_leather,Material,{'name': 'leather'}
+139,material_wool,Material,{'name': 'wool'}
+140,material_brass,Material,{'name': 'brass'}
+141,material_copper,Material,{'name': 'copper'}
+142,material_gold foil,Material,{'name': 'gold foil'}
+143,material_natural dyes,Material,{'name': 'natural dyes'}
+144,material_terracotta,Material,{'name': 'terracotta'}
+145,region_maharashtra,Region,{'name': 'Maharashtra'}
+146,region_bihar,Region,{'name': 'Bihar'}
+147,region_tamil nadu,Region,{'name': 'Tamil Nadu'}
+148,region_odisha,Region,{'name': 'Odisha'}
+149,region_andhra pradesh,Region,{'name': 'Andhra Pradesh'}
+150,region_karnataka,Region,{'name': 'Karnataka'}
+151,region_rajasthan,Region,{'name': 'Rajasthan'}
+152,region_punjab,Region,{'name': 'Punjab'}
+153,region_uttar pradesh,Region,{'name': 'Uttar Pradesh'}
+154,region_gujarat,Region,{'name': 'Gujarat'}
+155,region_west bengal,Region,{'name': 'West Bengal'}
+156,region_assam,Region,{'name': 'Assam'}
+157,region_kerala,Region,{'name': 'Kerala'}
+158,region_madhya pradesh,Region,{'name': 'Madhya Pradesh'}
+159,region_himachal pradesh,Region,{'name': 'Himachal Pradesh'}
+160,region_jammu & kashmir,Region,{'name': 'Jammu & Kashmir'}
+161,region_telangana,Region,{'name': 'Telangana'}
